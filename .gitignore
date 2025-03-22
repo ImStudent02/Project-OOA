@@ -1,0 +1,49 @@
+# Online Auction System - Git Ignore File
+
+# Ignore configuration files containing credentials
+databaseconnection.php
+config/lock.ini
+config/*.ini
+**/credentials.php
+**/config.php
+**/connection.php
+
+# Ignore database backup files
+database/*.sql
+*.sql
+
+# Ignore session files
+/tmp
+/temp
+*.session
+
+# Ignore image directories with user uploads
+img_id_proof/
+imgwinner/
+imgproduct/
+imgcategory/
+
+# Ignore log files
+*.log
+log/
+logs/
+
+# General ignores
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+vendor/
+composer.lock
+
+# Backup files
+Backup/
+*.bak
+*.backup
+*~
+
+# Cache files
+cache/
+*.cache 

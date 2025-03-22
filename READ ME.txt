@@ -1,0 +1,6 @@
+This project is created by diploma students on topic Online Auction System.
+You can see files which not used in project because team was trying to implement that features but due to time Limets its pending.
+
+source files can be more then you can see on auctial web so do not consider that all files given is part of project.
+-This web site can be trademarked in sometime so before using this web source for personal gain take permission from the developers of this web site who own this website. 
+Thank you.
