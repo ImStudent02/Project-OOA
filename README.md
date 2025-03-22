@@ -22,7 +22,7 @@ Ocean Of Auction is a comprehensive online auction system built with PHP and MyS
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ocean-of-auction.git
+   git clone https://github.com/ImStudent02/Project-OOA.git
    ```
 
 2. Set up the database:
@@ -74,7 +74,7 @@ This project was developed as a diploma project by students who created the Onli
 
 ## License
 
-This project is intended for educational purposes. Before using this code for personal or commercial gain, please contact the original developers.
+This project is intended for educational purposes. Before using this code for personal or commercial gain, please contact the original developers(https://github.com/ImStudent02).
 
 ---
 
