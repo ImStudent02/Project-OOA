@@ -1,5 +1,5 @@
 <?php 
-$aeskey = '^kS1@=Iy+M5%cU&jK9JmP,vE!pN8FwLz6A4eDQo2xxyz0nGZCOX7gqRs3uB_-';
+$aeskey = '^kS1@=Iy+M5%cU&jK9JmP,vE!pN8FwLz6A4eDQo2xxyz0nGZCOX7gqRs3uB_-'; #key must be save in secure form this is just demo
 function encrypt($plaintext) {
     if (empty($plaintext)) {
         return null;
